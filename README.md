@@ -2,7 +2,7 @@
 
 ![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Wrapper.Response.Base.svg)](https://www.nuget.org/packages/OnionCrafter.Wrapper.Response.Base/)
 
-![](https://raw.githubusercontent.com/Dtopiast/OnionCrafter.Util.Object/main/Images/Logo.png)
+![](https://raw.githubusercontent.com/Dtopiast/OnionCrafter.Wrapper.Response.Base/main/Images/Logo.png)
 
 **Estado de la Librería: Pre-Alfa - No Listo para Producción**
 
@@ -40,7 +40,9 @@ dotnet add package OnionCrafter.Wrapper.Response.Base
 Para comenzar a utilizar OnionCrafter.Wrapper.Response.Base en tu proyecto:
 
 1. Agrega la referencia a esta biblioteca en tu proyecto .NET 7.
-2. Extiende las clases base o implementa las interfaces proporcionadas para definir tus propios DTOs.
+
+2. Extiende las clases base o implementa las interfaces proporcionadas para definir tus propias clases.
+
 3. Personaliza y agrega propiedades y métodos específicos a tus implementaciones según tus necesidades.
 
 Para obtener ejemplos detallados sobre cómo utilizar esta librería, consulta la [documentación](https://github.com/Dtopiast/OnionCrafter.Wrapper.Response.Base/wiki).
